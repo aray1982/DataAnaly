@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="MIcon">Icon64.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>DataAnaly_en.qm</file>
+        <file>DataAnaly_zh.qm</file>
+    </qresource>
+</RCC>
